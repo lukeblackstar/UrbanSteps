@@ -30,4 +30,4 @@ Este projeto é um exercício de **design e desenvolvimento web**, criado para t
    git clone https://github.com/seu-usuario/urban-steps.git
 2. acesse o Pages: 
 
-https://lukeblackstar.github.io/UrbanSteps/
+   https://lukeblackstar.github.io/UrbanSteps/
