@@ -31,3 +31,11 @@ Este projeto é um exercício de **design e desenvolvimento web**, criado para t
 2. acesse o Pages: 
 
    https://lukeblackstar.github.io/UrbanSteps/
+
+   ![Image](https://github.com/user-attachments/assets/28bf20d8-abcd-44a0-bbb7-30fa977e1ea3)
+
+   ![Image](https://github.com/user-attachments/assets/be9bb884-27b9-415f-9197-4328d8f0ecd4)
+
+   ![Image](https://github.com/user-attachments/assets/dc010241-3ca9-4dda-b7a2-5f809b20cbae)
+
+   ![Image](https://github.com/user-attachments/assets/dae546ad-116d-4ced-9240-5387d770520b)
